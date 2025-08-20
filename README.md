@@ -33,7 +33,7 @@ and so on....
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/s-satyajit/employee-management-system
+   git clone https://github.com/s2pArjun/employe-management-system
    ```
 2. Navigate to the project directory:
    ```bash
